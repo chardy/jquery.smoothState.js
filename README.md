@@ -1,6 +1,12 @@
 jquery.smoothState.js
 ===============
-[Checkout the demo site](http://miguel-perez.github.io/jquery.smoothState.js/index.html) for examples and tutorials. [Let me know](https://twitter.com/tayokoart) if you have any questions.
+* Checkout a [demo](http://miguel-perez.com/etc/csstricks/)
+* How To Add Page Transitions with CSS and smoothState.js on [CSS-tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/)
+* Let [me](https://twitter.com/tayokoart) know if you have any questions
+* [More info](http://weblinc.github.io/jquery.smoothState.js/)
+
+
+## Table of contents
 
 * [About](#about)
 * [Options](#options)
